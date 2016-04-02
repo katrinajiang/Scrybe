@@ -36,10 +36,11 @@ Conclusion:
 I've handled the python streaming thing. It's easy peasy. We have to introduce an offset somewhere, and we might as well do it before we turn anything into g-code first, instead of having to edit g-code afterward.
 
 Things still left to do in software:
-A. configuring grbl so that it works with our 4 axis machine
-B. complete library?
-C. coordinates -> g-code
-D. seperate coordinates/g-code to complete g-code for entire string
+* configuring grbl so that it works with our 4 axis machine
+* complete library?
+* coordinates -> g-code
+* seperate coordinates/g-code to complete g-code for entire string
+
 things if we have time, not that hard tbh
-E. console window GUI -> slightly better GUI (python ezpz)
-F. More than one line string? e.g. "Go Bears \n Yee boi"
+* console window GUI -> slightly better GUI (python ezpz)
+* More than one line string? e.g. "Go Bears \n Yee boi"
