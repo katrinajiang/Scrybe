@@ -1,4 +1,4 @@
-Scryb
+Scrybe
 =====
 
 ### A CNC-like calligraphy writing machine
