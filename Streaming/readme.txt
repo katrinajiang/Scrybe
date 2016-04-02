@@ -3,6 +3,6 @@ This section of the repo covers the part of software that pulls characters to dr
 **Files:
 simple_stream.py
   G-Code sender officially supported by grbl. Sends file named "grbl.gcode" in local directory to grbl via serial.
-  requires pyserial.py
+  requires pyserial
 OOB.py
   The backend that is coordinating simple_stream with individual characters from the library.
